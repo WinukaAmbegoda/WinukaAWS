@@ -4,6 +4,9 @@
 
 - <b>Serverless Text-To-Speech Website</b>
   - [Text-To-Speech with Amazon Polly](https://github.com/WinukaAmbegoda/ServerlessTextToSpeech)
+- <b>3-Tier Resilient Architecture on AWS using Terraform</b>
+  - [3-Tier resilient Architecture](https://github.com/WinukaAmbegoda/3-Tier-Resilient-Architecture-on-AWS)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
